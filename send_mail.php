@@ -1,5 +1,5 @@
 <?
-$mail_to = 'your.email.goes.here@mail.com';
+$mail_to = 'shreesaivaibhav@gmail.com';
 
 $name = strip_tags(trim($_POST['name']));
 $email = strip_tags(trim($_POST['email']));
